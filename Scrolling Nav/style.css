@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+#First{
+
+    background-color: #212529;
+    padding: 1rem 0;       
+}
+
+#First a{
+    font-size: 1.35rem;
+    color: #fff;  
+    padding-left: 10rem;    
+}
+
+#Second{
+    text-align: center;
+    background-color: #277DFD;
+    padding: 6.5rem 0;    
+}
+
+#Second h1 {
+    font-size: 40px;
+    color: #ffffff;   
+}
+
+#Second p{
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#Second a{
+    color: black;
+    background-color: #f8f9fa;
+    font-size: 20px;
+    padding: 14px 20px;
+    border-radius: 5px;      
+}
+
+#Third{
+    padding: 9.3rem;
+    padding-left: 23rem;
+    background-color: white;       
+    
+}
+
+#Third h2{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #212529;
+}
+#Third p{
+    font-size: 20px;    
+    font-family: sans-serif;
+    color: grey;
+    line-height: 1.7rem;
+
+}
+#Third ul {
+    padding-left: 2rem;
+}
+#Third li {
+    font-size: 16px;
+    color: #212529;
+    margin-bottom: 0.5rem;
+    font-family: sans-serif;
+}
+
+#Fourth{
+    background-color: #f8f9fa;   
+    padding: 9.3rem;
+    padding-left: 23rem;
+}
+
+#Fourth h2{
+    font-size: 32px;
+    margin-bottom: 0.5rem;
+    font-weight: bold;    
+}
+
+#Fourth p{   
+    font-size: 20px;    
+    color: grey;
+    line-height: 1.8rem;
+}
+
+#Fifth{
+    padding: 9.3rem;
+    padding-left: 23rem;
+}
+
+#Fifth h2{
+    font-size: 32px;
+    margin-bottom: 0.5rem;
+    font-weight: bold;    
+}
+
+#Fifth p{   
+    font-size: 20px;    
+    color: grey;
+    line-height: 1.9rem;
+}
+
+#Footer{
+    background-color: #212529;
+    text-align: center;
+    padding: 3.2rem 0;
+}
+
+#Footer p{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+

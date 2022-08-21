@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.common{
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 20px 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+#First{
+    text-align: center;   
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 18rem 0;  
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;        
+}
+
+#First h1{
+    color : rgb(33, 37, 41);
+    font-size: 88px;
+}
+
+#First h3{
+    color: rgb(33, 37, 41);
+    font-size: 28px;
+    margin-bottom: 60px;
+}
+
+#First a{
+    background-color: rgb(29, 128, 159);       
+}
+
+#First a:hover{
+    background-color: #134d5f;
+    padding: 20px 50px;
+}
+
+#Second{
+    text-align: center;
+    background-color: #fff;
+    padding: 5rem 0;
+}
+
+#Second h2{
+    color: #212529;
+    font-size: 32px;
+}
+
+#Second p{
+    color:#212529;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+#Second p a{
+    text-decoration: underline;
+    color:#9CB2BA;
+}
+
+#Second .offer{
+    background-color: #212529;
+    
+}
+
+#Third{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 18rem 0;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#Third h2{
+    color: #212529;
+    font-size: 56px;
+    margin-bottom: 40px;
+}
+
+#Third a{
+    background-color: rgb(29, 128, 159);    
+}
+
+#Fourth{
+    text-align: center;
+    background-color: #1D809F;
+    padding: 8rem 0;
+    
+}
+
+#Fourth h2{
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.Click{
+    background-color: white;
+    color: black;
+    margin-right: 15px;
+}
+
+.Look{
+    background-color: black;
+    color: white;
+    margin-right: 15px;
+}
+
+#Footer{
+    text-align: center;
+    background-color: white;
+    padding: 3rem 0;
+
+}
+
+#Footer p{
+    font-size: 14px;
+    text-align: center;
+}
+
